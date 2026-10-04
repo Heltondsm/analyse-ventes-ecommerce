@@ -1,4 +1,4 @@
-# 📊 Analyse de performance e-commerce : Le Grand Marché
+# 📊 Repositionnement d'un e-commerce : mesure de l'impact sur la performance
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power%20Point](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
